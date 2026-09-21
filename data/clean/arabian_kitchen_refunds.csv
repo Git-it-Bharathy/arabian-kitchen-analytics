@@ -1,0 +1,398 @@
+order_id,datetime,item_name,category,quantity,unit_price,order_type,platform,payment_mode,revenue
+125153-R,2026-02-19 13:45:00,Veg Biryani,Biryani,-2,183.0,Delivery,Swiggy,CASH,-366.0
+130411-R,2026-04-24 16:32:00,Manakish Cheese,Bakery,-1,121.0,Delivery,Swiggy,CASH,-121.0
+136283-R,2026-07-19 20:17:00,Mixed Grill Platter,Platters,-1,364.0,Takeaway,Direct,CARD,-364.0
+107793-R,2025-06-08 21:05:00,Chicken Kebab Platter,Platters,-1,243.0,Dine-In,N/A,CASH,-243.0
+109788-R,2025-07-09 19:38:00,Mixed Grill Platter,Platters,-2,343.0,Dine-In,N/A,CARD,-686.0
+105928-R,2025-05-12 11:55:00,Chicken Biryani,Biryani,-1,230.0,Takeaway,Direct,CASH,-230.0
+130777-R,2026-04-27 17:46:00,Chicken Shawarma Plate,Platters,-1,210.0,Dine-In,N/A,CARD,-210.0
+121506-R,2025-12-30 19:40:00,Mixed Grill Platter,Platters,-1,364.0,Dine-In,N/A,UPI,-364.0
+112317-R,2025-08-15 20:56:00,Falafel Plate,Starters,-2,178.0,Takeaway,Direct,CASH,-356.0
+104370-R,2025-04-20 19:42:00,Chicken Biryani,Biryani,-1,215.0,Takeaway,Direct,UPI,-215.0
+104856-R,2025-04-27 14:33:00,Chicken Biryani,Biryani,-2,215.0,Takeaway,Direct,CARD,-430.0
+110702-R,2025-07-21 12:32:00,Mutton Biryani,Biryani,-1,286.0,Dine-In,N/A,CASH,-286.0
+111061-R,2025-07-27 18:10:00,Manakish Cheese,Bakery,-2,132.0,Delivery,Zomato,CARD,-264.0
+130213-R,2026-04-21 19:27:00,Veg Biryani,Biryani,-1,179.0,Dine-In,N/A,CASH,-179.0
+103202-R,2025-04-08 14:07:00,Hummus with Pita,Starters,-2,146.0,Takeaway,Direct,CARD,-292.0
+104576-R,2025-04-24 19:43:00,Chicken Shawarma Roll,Rolls,-1,135.0,Takeaway,Direct,UPI,-135.0
+125238-R,2026-02-20 18:42:00,Chicken Kabsa,Rice,-2,250.0,Delivery,Zomato,UPI,-500.0
+103344-R,2025-04-10 19:31:00,Lemon Mint Cooler,Beverages,-1,62.0,Delivery,Swiggy,CASH,-62.0
+120658-R,2025-12-19 18:09:00,Arabic Mandi Chicken,Rice,-2,262.0,Delivery,Zomato,UPI,-524.0
+108505-R,2025-06-20 18:54:00,Chicken Shawarma Plate,Platters,-1,212.0,Dine-In,N/A,CASH,-212.0
+136400-R,2026-07-20 19:12:00,Arabic Mandi Chicken,Rice,-2,279.0,Takeaway,Direct,CARD,-558.0
+129558-R,2026-04-13 12:00:00,Chicken Shawarma Roll,Rolls,-2,139.0,Delivery,Swiggy,CARD,-278.0
+120987-R,2025-12-22 15:53:00,Falooda,Dessert,-1,90.0,Dine-In,N/A,CASH,-90.0
+128552-R,2026-04-03 20:28:00,Chicken Shawarma Roll,Rolls,-1,137.0,Takeaway,Direct,UPI,-137.0
+113912-R,2025-09-09 20:36:00,Falooda,Dessert,-1,102.0,Dine-In,N/A,CARD,-102.0
+136630-R,2026-07-24 18:27:00,Lemon Mint Cooler,Beverages,-2,57.0,Delivery,Zomato,CASH,-114.0
+111877-R,2025-08-09 15:06:00,Chicken Biryani,Biryani,-1,212.0,Dine-In,N/A,UPI,-212.0
+135564-R,2026-07-08 19:44:00,Manakish Zaatar,Bakery,-1,102.0,Dine-In,N/A,UPI,-102.0
+137513-R,2026-08-05 14:50:00,Arabic Mandi Chicken,Rice,-2,277.0,Takeaway,Direct,CARD,-554.0
+133736-R,2026-06-11 13:01:00,Falafel Plate,Starters,-1,171.0,Delivery,Zomato,CARD,-171.0
+113116-R,2025-08-29 15:06:00,Mutton Shawarma Roll,Rolls,-2,163.0,Delivery,Zomato,CASH,-326.0
+133195-R,2026-06-02 22:55:00,Falooda,Dessert,-1,93.0,Dine-In,N/A,CARD,-93.0
+102766-R,2025-04-04 20:39:00,Chicken Shawarma Plate,Platters,-1,217.0,Delivery,Swiggy,CARD,-217.0
+136043-R,2026-07-16 21:02:00,Falafel Roll,Rolls,-2,101.0,Takeaway,Direct,CARD,-202.0
+113004-R,2025-08-27 21:26:00,Veg Biryani,Biryani,-2,171.0,Dine-In,N/A,CARD,-342.0
+105718-R,2025-05-09 19:17:00,Chicken Shawarma Roll,Rolls,-1,143.0,Delivery,Swiggy,CARD,-143.0
+133388-R,2026-06-06 20:00:00,Chicken Shawarma Plate,Platters,-2,221.0,Dine-In,N/A,CASH,-442.0
+137995-R,2026-08-13 18:50:00,Falafel Roll,Rolls,-2,102.0,Delivery,Swiggy,CASH,-204.0
+130060-R,2026-04-19 14:53:00,Karak Chai,Beverages,-2,43.0,Delivery,Swiggy,CASH,-86.0
+130713-R,2026-04-26 16:46:00,Veg Biryani,Biryani,-1,179.0,Delivery,Zomato,UPI,-179.0
+129549-R,2026-04-13 17:51:00,Chicken Shawarma Roll,Rolls,-2,136.0,Dine-In,N/A,UPI,-272.0
+109180-R,2025-06-29 14:04:00,Arabic Mandi Chicken,Rice,-2,284.0,Dine-In,N/A,CASH,-568.0
+129898-R,2026-04-18 19:59:00,Mutton Shawarma Roll,Rolls,-1,153.0,Delivery,Zomato,CASH,-153.0
+117156-R,2025-10-27 20:29:00,Lemon Mint Cooler,Beverages,-1,60.0,Dine-In,N/A,CASH,-60.0
+130408-R,2026-04-24 13:47:00,Falooda,Dessert,-1,101.0,Dine-In,N/A,CARD,-101.0
+125410-R,2026-02-22 14:07:00,Manakish Zaatar,Bakery,-2,123.0,Delivery,Direct,CASH,-246.0
+110053-R,2025-07-12 18:39:00,Chicken Shawarma Roll,Rolls,-2,124.0,Dine-In,N/A,CASH,-248.0
+119164-R,2025-11-28 18:32:00,Manakish Cheese,Bakery,-2,120.0,Dine-In,N/A,CARD,-240.0
+121605-R,2026-01-01 12:51:00,Chicken Shawarma Roll,Rolls,-1,134.0,Dine-In,N/A,CARD,-134.0
+115266-R,2025-09-29 11:26:00,Manakish Zaatar,Bakery,-1,122.0,Delivery,Swiggy,UPI,-122.0
+135299-R,2026-07-04 19:41:00,Mutton Shawarma Roll,Rolls,-2,168.0,Delivery,Swiggy,CARD,-336.0
+125778-R,2026-03-01 13:34:00,Veg Biryani,Biryani,-1,194.0,Delivery,Swiggy,CASH,-194.0
+114343-R,2025-09-16 16:25:00,Arabic Mandi Chicken,Rice,-2,263.0,Takeaway,Direct,UNKNOWN,-526.0
+104221-R,2025-04-19 13:10:00,Mutton Shawarma Roll,Rolls,-2,157.0,Dine-In,N/A,CASH,-314.0
+111396-R,2025-08-01 19:22:00,Mutton Biryani,Biryani,-2,272.0,Takeaway,Direct,CARD,-544.0
+132741-R,2026-05-27 20:28:00,Karak Chai,Beverages,-2,43.0,Delivery,Zomato,UPI,-86.0
+119789-R,2025-12-07 17:44:00,Mutton Biryani,Biryani,-2,286.0,Delivery,Zomato,UNKNOWN,-572.0
+104521-R,2025-04-24 12:52:00,Chicken Shawarma Plate,Platters,-1,215.0,Delivery,Zomato,UPI,-215.0
+128683-R,2026-04-04 14:17:00,Lemon Mint Cooler,Beverages,-2,59.0,Takeaway,Direct,CASH,-118.0
+131727-R,2026-05-11 23:56:00,Mixed Grill Platter,Platters,-2,364.0,Delivery,Zomato,CARD,-728.0
+113527-R,2025-09-03 13:31:00,Baklava (2 pcs),Dessert,-2,93.0,Dine-In,N/A,CARD,-186.0
+137073-R,2026-07-31 12:41:00,Falafel Roll,Rolls,-2,110.0,Dine-In,N/A,CASH,-220.0
+128643-R,2026-04-03 20:43:00,Arabic Mandi Chicken,Rice,-1,271.0,Delivery,Swiggy,CASH,-271.0
+113199-R,2025-08-29 19:23:00,Chicken Shawarma Roll,Rolls,-2,124.0,Delivery,Swiggy,CASH,-248.0
+109486-R,2025-07-04 19:35:00,Mutton Biryani,Biryani,-1,288.0,Dine-In,N/A,CASH,-288.0
+109137-R,2025-06-29 20:19:00,Falafel Roll,Rolls,-2,120.0,Dine-In,N/A,CASH,-240.0
+105874-R,2025-05-11 13:30:00,Chicken Biryani,Biryani,-1,230.0,Dine-In,N/A,CASH,-230.0
+105266-R,2025-05-02 18:14:00,Mixed Grill Platter,Platters,-1,342.0,Dine-In,N/A,CASH,-342.0
+110864-R,2025-07-25 13:06:00,Mutton Shawarma Roll,Rolls,-2,151.0,Takeaway,Direct,UNKNOWN,-302.0
+118475-R,2025-11-16 12:25:00,Mutton Shawarma Roll,Rolls,-2,163.0,Dine-In,N/A,CARD,-326.0
+138292-R,2026-08-16 16:36:00,Manakish Zaatar,Bakery,-1,124.0,Takeaway,Direct,CARD,-124.0
+138158-R,2026-08-15 19:09:00,Hummus with Pita,Starters,-2,155.0,Delivery,Swiggy,CASH,-310.0
+101347-R,2025-03-17 16:44:00,Mixed Grill Platter,Platters,-2,346.0,Takeaway,Direct,CASH,-692.0
+120572-R,2025-12-18 18:05:00,Manakish Cheese,Bakery,-1,132.0,Delivery,Zomato,CARD,-132.0
+123105-R,2026-01-20 12:21:00,Falooda,Dessert,-1,94.0,Dine-In,N/A,CARD,-94.0
+133264-R,2026-06-04 17:22:00,Chicken Shawarma Roll,Rolls,-2,136.0,Dine-In,N/A,UPI,-272.0
+103599-R,2025-04-12 21:07:00,Falafel Roll,Rolls,-2,121.0,Delivery,Swiggy,CARD,-242.0
+116797-R,2025-10-22 15:53:00,Manakish Zaatar,Bakery,-2,100.0,Dine-In,N/A,CASH,-200.0
+118145-R,2025-11-12 19:10:00,Chicken Biryani,Biryani,-2,230.0,Dine-In,N/A,CASH,-460.0
+115581-R,2025-10-04 20:14:00,Chicken Shawarma Plate,Platters,-2,202.0,Dine-In,N/A,CASH,-404.0
+136642-R,2026-07-24 18:42:00,Manakish Cheese,Bakery,-1,113.0,Dine-In,N/A,CASH,-113.0
+105180-R,2025-05-01 14:15:00,Falooda,Dessert,-1,80.0,Dine-In,N/A,CASH,-80.0
+117273-R,2025-10-29 11:15:00,Mutton Shawarma Roll,Rolls,-1,172.0,Takeaway,Direct,CARD,-172.0
+111982-R,2025-08-10 20:18:00,Manakish Zaatar,Bakery,-1,101.0,Dine-In,N/A,UPI,-101.0
+116514-R,2025-10-18 19:46:00,Mutton Biryani,Biryani,-2,282.0,Delivery,Swiggy,CASH,-564.0
+115487-R,2025-10-03 13:58:00,Mutton Biryani,Biryani,-2,284.0,Delivery,Swiggy,CASH,-568.0
+127792-R,2026-03-24 18:08:00,Chicken Kebab Platter,Platters,-1,230.0,Dine-In,N/A,CARD,-230.0
+112625-R,2025-08-20 12:45:00,Chicken Kebab Platter,Platters,-2,249.0,Dine-In,N/A,UPI,-498.0
+129162-R,2026-04-10 12:11:00,Baklava (2 pcs),Dessert,-2,113.0,Dine-In,N/A,CASH,-226.0
+135753-R,2026-07-11 13:42:00,Karak Chai,Beverages,-1,37.0,Takeaway,Direct,CARD,-37.0
+100424-R,2025-03-06 14:22:00,Falooda,Dessert,-1,100.0,Delivery,Swiggy,UPI,-100.0
+123138-R,2026-01-21 20:28:00,Mutton Biryani,Biryani,-1,279.0,Delivery,Direct,CASH,-279.0
+124035-R,2026-02-01 15:41:00,Falooda,Dessert,-2,88.0,Delivery,Zomato,CARD,-176.0
+121770-R,2026-01-03 13:09:00,Mutton Shawarma Roll,Rolls,-1,173.0,Delivery,Zomato,UPI,-173.0
+100403-R,2025-03-06 20:47:00,Karak Chai,Beverages,-1,44.0,Dine-In,N/A,CARD,-44.0
+117045-R,2025-10-25 12:00:00,Chicken Kabsa,Rice,-2,272.0,Delivery,Swiggy,UPI,-544.0
+105985-R,2025-05-13 12:57:00,Arabic Mandi Chicken,Rice,-1,272.0,Dine-In,N/A,CARD,-272.0
+125310-R,2026-02-21 13:05:00,Falooda,Dessert,-1,90.0,Dine-In,N/A,CASH,-90.0
+126029-R,2026-03-04 19:03:00,Manakish Cheese,Bakery,-1,121.0,Delivery,Zomato,UPI,-121.0
+116169-R,2025-10-12 12:28:00,Hummus with Pita,Starters,-2,146.0,Delivery,Swiggy,CARD,-292.0
+120022-R,2025-12-10 19:33:00,Lemon Mint Cooler,Beverages,-2,66.0,Dine-In,N/A,UPI,-132.0
+101165-R,2025-03-15 12:36:00,Mutton Biryani,Biryani,-2,277.0,Dine-In,N/A,CARD,-554.0
+107458-R,2025-06-03 21:41:00,Mixed Grill Platter,Platters,-2,359.0,Delivery,Swiggy,CASH,-718.0
+123517-R,2026-01-25 19:27:00,Falafel Roll,Rolls,-2,115.0,Delivery,Swiggy,UPI,-230.0
+134000-R,2026-06-14 21:38:00,Chicken Shawarma Roll,Rolls,-1,141.0,Dine-In,N/A,UPI,-141.0
+107918-R,2025-06-10 20:28:00,Chicken Shawarma Roll,Rolls,-1,137.0,Takeaway,Direct,UPI,-137.0
+126754-R,2026-03-13 21:51:00,Falafel Roll,Rolls,-1,103.0,Dine-In,N/A,UPI,-103.0
+105588-R,2025-05-07 18:26:00,Chicken Biryani,Biryani,-1,222.0,Takeaway,Direct,CASH,-222.0
+125281-R,2026-02-21 20:53:00,Baklava (2 pcs),Dessert,-2,100.0,Dine-In,N/A,CARD,-200.0
+137056-R,2026-07-30 11:58:00,Manakish Cheese,Bakery,-1,121.0,Takeaway,Direct,CARD,-121.0
+109773-R,2025-07-09 12:12:00,Arabic Mandi Chicken,Rice,-1,283.0,Delivery,Zomato,CASH,-283.0
+138429-R,2026-08-20 18:04:00,Hummus with Pita,Starters,-1,164.0,Dine-In,N/A,UPI,-164.0
+105574-R,2025-05-06 19:36:00,Mutton Biryani,Biryani,-2,287.0,Delivery,Swiggy,CARD,-574.0
+126068-R,2026-03-04 20:08:00,Lemon Mint Cooler,Beverages,-2,69.0,Dine-In,N/A,CASH,-138.0
+132629-R,2026-05-24 17:38:00,Manakish Zaatar,Bakery,-2,121.0,Dine-In,N/A,UPI,-242.0
+124983-R,2026-02-16 11:21:00,Mutton Shawarma Roll,Rolls,-2,157.0,Delivery,Zomato,CASH,-314.0
+119331-R,2025-11-30 12:05:00,Falooda,Dessert,-1,83.0,Takeaway,Direct,UPI,-83.0
+113449-R,2025-09-02 15:54:00,Manakish Zaatar,Bakery,-1,105.0,Delivery,Swiggy,CASH,-105.0
+101451-R,2025-03-19 18:31:00,Mutton Biryani,Biryani,-1,278.0,Delivery,Zomato,CASH,-278.0
+116581-R,2025-10-18 17:47:00,Arabic Mandi Chicken,Rice,-1,266.0,Dine-In,N/A,CASH,-266.0
+114071-R,2025-09-12 21:58:00,Hummus with Pita,Starters,-2,156.0,Dine-In,N/A,CASH,-312.0
+113279-R,2025-08-30 20:55:00,Mutton Shawarma Roll,Rolls,-2,167.0,Delivery,Swiggy,CASH,-334.0
+134078-R,2026-06-16 12:34:00,Chicken Shawarma Roll,Rolls,-2,132.0,Delivery,Zomato,UPI,-264.0
+108513-R,2025-06-20 13:20:00,Manakish Cheese,Bakery,-1,122.0,Delivery,Swiggy,UPI,-122.0
+101815-R,2025-03-22 20:00:00,Chicken Shawarma Plate,Platters,-1,219.0,Takeaway,Direct,CARD,-219.0
+130456-R,2026-04-24 12:24:00,Chicken Kebab Platter,Platters,-2,242.0,Delivery,Swiggy,UPI,-484.0
+135697-R,2026-07-10 12:35:00,Manakish Zaatar,Bakery,-2,112.0,Takeaway,Direct,CASH,-224.0
+106333-R,2025-05-17 13:19:00,Manakish Zaatar,Bakery,-1,104.0,Dine-In,N/A,CASH,-104.0
+134562-R,2026-06-23 13:49:00,Mixed Grill Platter,Platters,-1,361.0,Delivery,Zomato,CASH,-361.0
+121410-R,2025-12-28 12:38:00,Falafel Roll,Rolls,-2,124.0,Delivery,Direct,CARD,-248.0
+136554-R,2026-07-23 19:09:00,Mutton Biryani,Biryani,-2,283.0,Delivery,Swiggy,CARD,-566.0
+105146-R,2025-04-30 14:36:00,Falafel Plate,Starters,-1,176.0,Delivery,Swiggy,CASH,-176.0
+115992-R,2025-10-10 15:59:00,Chicken Shawarma Roll,Rolls,-2,138.0,Delivery,Zomato,CASH,-276.0
+135712-R,2026-07-10 18:58:00,Manakish Cheese,Bakery,-1,112.0,Delivery,Zomato,UPI,-112.0
+121583-R,2026-01-01 12:23:00,Chicken Biryani,Biryani,-1,211.0,Delivery,Swiggy,UPI,-211.0
+132616-R,2026-05-24 18:55:00,Chicken Shawarma Plate,Platters,-1,215.0,Dine-In,N/A,CASH,-215.0
+110373-R,2025-07-17 21:28:00,Manakish Zaatar,Bakery,-1,105.0,Delivery,Zomato,CASH,-105.0
+115975-R,2025-10-10 18:05:00,Falafel Roll,Rolls,-1,111.0,Delivery,Swiggy,CASH,-111.0
+134732-R,2026-06-26 13:40:00,Karak Chai,Beverages,-2,48.0,Delivery,Zomato,CARD,-96.0
+116462-R,2025-10-17 14:41:00,Falooda,Dessert,-2,91.0,Dine-In,N/A,CARD,-182.0
+114761-R,2025-09-21 19:44:00,Baklava (2 pcs),Dessert,-2,110.0,Dine-In,N/A,UPI,-220.0
+136910-R,2026-07-28 17:20:00,Mutton Shawarma Roll,Rolls,-2,154.0,Delivery,Zomato,UPI,-308.0
+105606-R,2025-05-07 22:08:00,Chicken Biryani,Biryani,-2,212.0,Delivery,Swiggy,CARD,-424.0
+103095-R,2025-04-06 12:35:00,Hummus with Pita,Starters,-1,155.0,Delivery,Zomato,CARD,-155.0
+100438-R,2025-03-06 12:35:00,Chicken Shawarma Roll,Rolls,-1,144.0,Delivery,Swiggy,UPI,-144.0
+100373-R,2025-03-05 21:02:00,Chicken Kabsa,Rice,-1,269.0,Delivery,Zomato,CASH,-269.0
+117207-R,2025-10-28 12:10:00,Falooda,Dessert,-1,94.0,Takeaway,Direct,CASH,-94.0
+117228-R,2025-10-28 12:00:00,Chicken Kabsa,Rice,-2,274.0,Delivery,Zomato,CASH,-548.0
+111393-R,2025-08-01 21:24:00,Chicken Kabsa,Rice,-2,271.0,Delivery,Swiggy,UPI,-542.0
+135311-R,2026-07-04 19:25:00,Veg Biryani,Biryani,-1,182.0,Dine-In,N/A,CASH,-182.0
+132839-R,2026-05-29 20:32:00,Karak Chai,Beverages,-1,44.0,Delivery,Swiggy,CARD,-44.0
+107893-R,2025-06-10 13:23:00,Mutton Shawarma Roll,Rolls,-1,150.0,Takeaway,Direct,CARD,-150.0
+135203-R,2026-07-03 19:03:00,Veg Biryani,Biryani,-2,176.0,Dine-In,N/A,CASH,-352.0
+127963-R,2026-03-27 11:11:00,Mutton Shawarma Roll,Rolls,-2,152.0,Delivery,Direct,UPI,-304.0
+118081-R,2025-11-11 12:11:00,Chicken Kebab Platter,Platters,-1,239.0,Delivery,Swiggy,CASH,-239.0
+127295-R,2026-03-19 22:54:00,Chicken Shawarma Plate,Platters,-2,212.0,Delivery,Zomato,UPI,-424.0
+110365-R,2025-07-17 16:25:00,Veg Biryani,Biryani,-2,174.0,Delivery,Swiggy,CARD,-348.0
+137316-R,2026-08-02 21:49:00,Karak Chai,Beverages,-2,44.0,Delivery,Swiggy,CASH,-88.0
+138937-R,2026-08-28 14:00:00,Falafel Plate,Starters,-1,180.0,Delivery,Zomato,CASH,-180.0
+122835-R,2026-01-17 12:31:00,Falafel Roll,Rolls,-2,107.0,Dine-In,N/A,CARD,-214.0
+127157-R,2026-03-17 15:03:00,Chicken Biryani,Biryani,-1,224.0,Delivery,Zomato,CASH,-224.0
+137245-R,2026-08-01 11:41:00,Veg Biryani,Biryani,-1,181.0,Delivery,Swiggy,CASH,-181.0
+137916-R,2026-08-11 19:04:00,Falafel Roll,Rolls,-1,103.0,Takeaway,Direct,CARD,-103.0
+121056-R,2025-12-24 13:33:00,Falafel Roll,Rolls,-2,112.0,Delivery,Swiggy,UPI,-224.0
+103530-R,2025-04-12 12:45:00,Chicken Shawarma Roll,Rolls,-1,136.0,Dine-In,N/A,UPI,-136.0
+121229-R,2025-12-27 21:42:00,Karak Chai,Beverages,-2,34.0,Delivery,Swiggy,CASH,-68.0
+122775-R,2026-01-16 13:45:00,Lemon Mint Cooler,Beverages,-1,73.0,Delivery,Swiggy,CARD,-73.0
+105519-R,2025-05-06 19:56:00,Hummus with Pita,Starters,-1,147.0,Dine-In,N/A,CARD,-147.0
+115988-R,2025-10-10 14:46:00,Manakish Zaatar,Bakery,-1,104.0,Delivery,Swiggy,CASH,-104.0
+108071-R,2025-06-13 20:19:00,Hummus with Pita,Starters,-1,145.0,Dine-In,N/A,CASH,-145.0
+110893-R,2025-07-25 23:56:00,Mixed Grill Platter,Platters,-2,347.0,Dine-In,N/A,UPI,-694.0
+110992-R,2025-07-26 20:36:00,Mutton Biryani,Biryani,-1,272.0,Delivery,Swiggy,CASH,-272.0
+126167-R,2026-03-06 22:49:00,Falafel Roll,Rolls,-2,112.0,Delivery,Zomato,CASH,-224.0
+115366-R,2025-10-01 18:02:00,Chicken Shawarma Roll,Rolls,-2,143.0,Dine-In,N/A,UPI,-286.0
+131627-R,2026-05-10 18:54:00,Chicken Kebab Platter,Platters,-2,240.0,Delivery,Zomato,CASH,-480.0
+123428-R,2026-01-24 12:10:00,Chicken Kabsa,Rice,-2,273.0,Delivery,Swiggy,CASH,-546.0
+122885-R,2026-01-17 12:11:00,Manakish Cheese,Bakery,-2,122.0,Delivery,Swiggy,CASH,-244.0
+101017-R,2025-03-14 14:10:00,Baklava (2 pcs),Dessert,-2,92.0,Delivery,Zomato,UPI,-184.0
+122323-R,2026-01-10 19:03:00,Mutton Biryani,Biryani,-1,282.0,Takeaway,Direct,CASH,-282.0
+126695-R,2026-03-12 15:40:00,Falooda,Dessert,-1,82.0,Delivery,Swiggy,UPI,-82.0
+113414-R,2025-09-01 13:42:00,Chicken Shawarma Plate,Platters,-2,209.0,Delivery,Swiggy,UPI,-418.0
+111790-R,2025-08-08 14:02:00,Chicken Kebab Platter,Platters,-2,234.0,Takeaway,Direct,CARD,-468.0
+119051-R,2025-11-26 13:29:00,Arabic Mandi Chicken,Rice,-2,264.0,Dine-In,N/A,UPI,-528.0
+104089-R,2025-04-18 12:46:00,Mutton Shawarma Roll,Rolls,-2,165.0,Delivery,Swiggy,UPI,-330.0
+103667-R,2025-04-13 12:40:00,Chicken Shawarma Roll,Rolls,-2,126.0,Dine-In,N/A,CASH,-252.0
+107552-R,2025-06-05 13:00:00,Karak Chai,Beverages,-1,46.0,Delivery,Swiggy,CASH,-46.0
+112846-R,2025-08-24 14:41:00,Mutton Biryani,Biryani,-2,277.0,Delivery,Swiggy,CASH,-554.0
+135945-R,2026-07-13 18:13:00,Manakish Zaatar,Bakery,-1,111.0,Delivery,Swiggy,CASH,-111.0
+121222-R,2025-12-27 13:52:00,Chicken Biryani,Biryani,-2,232.0,Dine-In,N/A,CASH,-464.0
+129965-R,2026-04-18 16:47:00,Chicken Kebab Platter,Platters,-1,244.0,Delivery,Swiggy,CARD,-244.0
+136908-R,2026-07-28 13:19:00,Chicken Biryani,Biryani,-2,220.0,Dine-In,N/A,UPI,-440.0
+127224-R,2026-03-18 13:03:00,Chicken Shawarma Plate,Platters,-1,201.0,Delivery,Zomato,CASH,-201.0
+100013-R,2025-03-01 19:45:00,Manakish Cheese,Bakery,-1,126.0,Delivery,Zomato,CASH,-126.0
+139048-R,2026-08-29 11:52:00,Mutton Shawarma Roll,Rolls,-1,173.0,Delivery,Swiggy,UPI,-173.0
+131255-R,2026-05-04 11:51:00,Arabic Mandi Chicken,Rice,-2,269.0,Delivery,Direct,CARD,-538.0
+121275-R,2025-12-27 14:50:00,Lemon Mint Cooler,Beverages,-1,57.0,Dine-In,N/A,CARD,-57.0
+128206-R,2026-03-29 12:31:00,Baklava (2 pcs),Dessert,-2,96.0,Dine-In,N/A,CASH,-192.0
+135421-R,2026-07-05 13:08:00,Mutton Biryani,Biryani,-1,294.0,Dine-In,N/A,UPI,-294.0
+107149-R,2025-05-30 21:15:00,Mutton Biryani,Biryani,-1,290.0,Delivery,Swiggy,UNKNOWN,-290.0
+122556-R,2026-01-13 19:19:00,Chicken Kabsa,Rice,-1,274.0,Delivery,Zomato,CARD,-274.0
+123931-R,2026-01-31 14:28:00,Falafel Roll,Rolls,-1,123.0,Delivery,Zomato,CASH,-123.0
+132677-R,2026-05-25 14:59:00,Manakish Cheese,Bakery,-2,121.0,Dine-In,N/A,CARD,-242.0
+114929-R,2025-09-24 17:04:00,Chicken Kabsa,Rice,-1,251.0,Dine-In,N/A,CASH,-251.0
+121331-R,2025-12-28 14:45:00,Chicken Biryani,Biryani,-2,234.0,Dine-In,N/A,CASH,-468.0
+112408-R,2025-08-16 22:14:00,Chicken Kabsa,Rice,-1,270.0,Takeaway,Direct,CASH,-270.0
+133818-R,2026-06-12 12:03:00,Falafel Plate,Starters,-2,174.0,Delivery,Swiggy,CASH,-348.0
+131465-R,2026-05-08 11:49:00,Karak Chai,Beverages,-2,50.0,Takeaway,Direct,CASH,-100.0
+126208-R,2026-03-06 22:41:00,Chicken Shawarma Roll,Rolls,-1,120.0,Dine-In,N/A,CASH,-120.0
+119514-R,2025-12-03 20:39:00,Hummus with Pita,Starters,-1,145.0,Dine-In,N/A,CARD,-145.0
+138196-R,2026-08-15 19:22:00,Mixed Grill Platter,Platters,-1,352.0,Delivery,Zomato,CASH,-352.0
+137426-R,2026-08-04 14:22:00,Manakish Zaatar,Bakery,-2,102.0,Delivery,Swiggy,CARD,-204.0
+124606-R,2026-02-10 17:21:00,Mutton Shawarma Roll,Rolls,-1,164.0,Takeaway,Direct,CASH,-164.0
+135894-R,2026-07-12 14:24:00,Lemon Mint Cooler,Beverages,-1,59.0,Delivery,Swiggy,UPI,-59.0
+122321-R,2026-01-10 20:39:00,Baklava (2 pcs),Dessert,-1,99.0,Delivery,Zomato,CASH,-99.0
+116103-R,2025-10-12 17:52:00,Arabic Mandi Chicken,Rice,-2,278.0,Delivery,Zomato,UPI,-556.0
+119897-R,2025-12-08 13:29:00,Mixed Grill Platter,Platters,-2,350.0,Delivery,Swiggy,CASH,-700.0
+110752-R,2025-07-22 11:42:00,Baklava (2 pcs),Dessert,-2,101.0,Dine-In,N/A,CARD,-202.0
+137877-R,2026-08-10 13:41:00,Mutton Biryani,Biryani,-1,291.0,Takeaway,Direct,CASH,-291.0
+126462-R,2026-03-08 23:20:00,Falafel Roll,Rolls,-1,116.0,Dine-In,N/A,CASH,-116.0
+120917-R,2025-12-21 12:53:00,Hummus with Pita,Starters,-1,150.0,Dine-In,N/A,CASH,-150.0
+101954-R,2025-03-24 22:04:00,Falafel Plate,Starters,-2,169.0,Dine-In,N/A,CASH,-338.0
+102532-R,2025-03-31 21:43:00,Manakish Zaatar,Bakery,-2,107.0,Dine-In,N/A,CARD,-214.0
+131787-R,2026-05-12 11:17:00,Chicken Kabsa,Rice,-2,274.0,Delivery,Zomato,CARD,-548.0
+124428-R,2026-02-08 14:15:00,Mixed Grill Platter,Platters,-1,345.0,Delivery,Direct,UPI,-345.0
+121450-R,2025-12-29 19:32:00,Baklava (2 pcs),Dessert,-2,102.0,Dine-In,N/A,CARD,-204.0
+130924-R,2026-04-29 13:39:00,Falafel Plate,Starters,-2,178.0,Delivery,Swiggy,UPI,-356.0
+119435-R,2025-12-02 13:31:00,Falafel Roll,Rolls,-2,100.0,Delivery,Swiggy,UPI,-200.0
+133117-R,2026-06-01 13:01:00,Veg Biryani,Biryani,-2,181.0,Delivery,Direct,CARD,-362.0
+100802-R,2025-03-10 19:59:00,Arabic Mandi Chicken,Rice,-2,276.0,Dine-In,N/A,UPI,-552.0
+119296-R,2025-11-29 19:38:00,Manakish Cheese,Bakery,-1,111.0,Takeaway,Direct,CASH,-111.0
+118634-R,2025-11-19 21:10:00,Chicken Shawarma Plate,Platters,-2,215.0,Dine-In,N/A,UPI,-430.0
+115390-R,2025-10-01 11:48:00,Mixed Grill Platter,Platters,-2,357.0,Dine-In,N/A,CASH,-714.0
+103785-R,2025-04-14 20:03:00,Chicken Kebab Platter,Platters,-1,252.0,Takeaway,Direct,UPI,-252.0
+134291-R,2026-06-19 20:49:00,Mixed Grill Platter,Platters,-1,362.0,Delivery,Zomato,CARD,-362.0
+136147-R,2026-07-17 22:51:00,Lemon Mint Cooler,Beverages,-1,61.0,Delivery,Swiggy,CASH,-61.0
+114082-R,2025-09-13 12:20:00,Karak Chai,Beverages,-2,49.0,Delivery,Zomato,CARD,-98.0
+130325-R,2026-04-22 17:53:00,Arabic Mandi Chicken,Rice,-2,263.0,Delivery,Swiggy,UPI,-526.0
+121641-R,2026-01-02 14:02:00,Chicken Kabsa,Rice,-1,259.0,Delivery,Zomato,CASH,-259.0
+112997-R,2025-08-26 13:03:00,Arabic Mandi Chicken,Rice,-1,269.0,Dine-In,N/A,CASH,-269.0
+138857-R,2026-08-26 12:45:00,Arabic Mandi Chicken,Rice,-2,277.0,Delivery,Swiggy,UPI,-554.0
+114010-R,2025-09-12 21:52:00,Hummus with Pita,Starters,-1,145.0,Delivery,Zomato,CASH,-145.0
+100025-R,2025-03-01 17:07:00,Arabic Mandi Chicken,Rice,-2,283.0,Delivery,Zomato,UPI,-566.0
+130016-R,2026-04-19 13:13:00,Veg Biryani,Biryani,-2,173.0,Dine-In,N/A,CASH,-346.0
+121315-R,2025-12-27 18:47:00,Manakish Cheese,Bakery,-2,129.0,Dine-In,N/A,CASH,-258.0
+106046-R,2025-05-14 22:04:00,Chicken Shawarma Roll,Rolls,-1,142.0,Dine-In,N/A,UPI,-142.0
+105775-R,2025-05-10 14:24:00,Baklava (2 pcs),Dessert,-2,107.0,Delivery,Zomato,CASH,-214.0
+138705-R,2026-08-23 14:20:00,Chicken Shawarma Plate,Platters,-1,212.0,Dine-In,N/A,CARD,-212.0
+107650-R,2025-06-06 12:28:00,Manakish Zaatar,Bakery,-2,121.0,Delivery,Direct,CASH,-242.0
+136469-R,2026-07-21 12:47:00,Lemon Mint Cooler,Beverages,-1,62.0,Takeaway,Direct,CASH,-62.0
+104656-R,2025-04-25 20:46:00,Falafel Plate,Starters,-2,162.0,Delivery,Swiggy,CARD,-324.0
+116399-R,2025-10-16 18:38:00,Chicken Biryani,Biryani,-2,228.0,Takeaway,Direct,UPI,-456.0
+100162-R,2025-03-02 12:25:00,Manakish Cheese,Bakery,-2,130.0,Delivery,Swiggy,CARD,-260.0
+110400-R,2025-07-18 14:00:00,Hummus with Pita,Starters,-1,144.0,Dine-In,N/A,UPI,-144.0
+113340-R,2025-08-31 16:35:00,Veg Biryani,Biryani,-1,193.0,Dine-In,N/A,CASH,-193.0
+110968-R,2025-07-26 14:49:00,Chicken Biryani,Biryani,-2,222.0,Delivery,Swiggy,CASH,-444.0
+122968-R,2026-01-18 19:46:00,Hummus with Pita,Starters,-1,140.0,Delivery,Direct,CASH,-140.0
+102715-R,2025-04-03 13:09:00,Mutton Biryani,Biryani,-2,281.0,Dine-In,N/A,CARD,-562.0
+117159-R,2025-10-27 19:00:00,Mixed Grill Platter,Platters,-1,350.0,Delivery,Swiggy,UPI,-350.0
+116919-R,2025-10-24 20:41:00,Chicken Kabsa,Rice,-1,260.0,Delivery,Swiggy,CASH,-260.0
+135963-R,2026-07-14 13:54:00,Karak Chai,Beverages,-1,40.0,Dine-In,N/A,UPI,-40.0
+112630-R,2025-08-20 19:08:00,Chicken Biryani,Biryani,-2,211.0,Delivery,Swiggy,CARD,-422.0
+126255-R,2026-03-07 17:48:00,Chicken Kabsa,Rice,-1,266.0,Delivery,Swiggy,CASH,-266.0
+136649-R,2026-07-25 19:40:00,Mixed Grill Platter,Platters,-2,364.0,Delivery,Zomato,CARD,-728.0
+115999-R,2025-10-10 14:31:00,Veg Biryani,Biryani,-1,170.0,Dine-In,N/A,UPI,-170.0
+122455-R,2026-01-11 21:43:00,Chicken Kebab Platter,Platters,-1,244.0,Delivery,Zomato,CASH,-244.0
+113910-R,2025-09-09 13:33:00,Lemon Mint Cooler,Beverages,-1,70.0,Delivery,Zomato,CASH,-70.0
+110408-R,2025-07-18 19:41:00,Arabic Mandi Chicken,Rice,-2,262.0,Takeaway,Direct,CASH,-524.0
+121897-R,2026-01-04 14:12:00,Mixed Grill Platter,Platters,-1,360.0,Takeaway,Direct,CASH,-360.0
+107991-R,2025-06-12 23:28:00,Manakish Zaatar,Bakery,-2,116.0,Delivery,Direct,CASH,-232.0
+123213-R,2026-01-22 17:24:00,Chicken Kebab Platter,Platters,-2,242.0,Delivery,Zomato,CASH,-484.0
+131936-R,2026-05-15 13:06:00,Falafel Roll,Rolls,-2,112.0,Takeaway,Direct,UPI,-224.0
+116857-R,2025-10-23 19:55:00,Chicken Kabsa,Rice,-1,257.0,Takeaway,Direct,CASH,-257.0
+119182-R,2025-11-28 13:54:00,Mutton Biryani,Biryani,-2,283.0,Delivery,Swiggy,CASH,-566.0
+126376-R,2026-03-07 20:32:00,Chicken Kebab Platter,Platters,-1,252.0,Delivery,Direct,CARD,-252.0
+113254-R,2025-08-30 18:01:00,Chicken Shawarma Roll,Rolls,-1,122.0,Takeaway,Direct,CARD,-122.0
+122082-R,2026-01-07 12:39:00,Mutton Shawarma Roll,Rolls,-1,162.0,Delivery,Zomato,CASH,-162.0
+113652-R,2025-09-05 20:59:00,Mutton Biryani,Biryani,-2,292.0,Dine-In,N/A,CASH,-584.0
+103209-R,2025-04-08 21:40:00,Hummus with Pita,Starters,-1,153.0,Dine-In,N/A,CASH,-153.0
+138208-R,2026-08-15 21:31:00,Mixed Grill Platter,Platters,-1,342.0,Dine-In,N/A,CASH,-342.0
+118855-R,2025-11-23 19:16:00,Lemon Mint Cooler,Beverages,-2,58.0,Delivery,Zomato,CASH,-116.0
+133300-R,2026-06-05 12:59:00,Baklava (2 pcs),Dessert,-1,96.0,Delivery,Zomato,CASH,-96.0
+113121-R,2025-08-29 20:37:00,Mutton Shawarma Roll,Rolls,-1,164.0,Dine-In,N/A,CASH,-164.0
+136241-R,2026-07-18 19:49:00,Veg Biryani,Biryani,-2,182.0,Delivery,Swiggy,CASH,-364.0
+126282-R,2026-03-07 12:48:00,Veg Biryani,Biryani,-2,171.0,Delivery,Swiggy,CARD,-342.0
+111192-R,2025-07-29 19:27:00,Veg Biryani,Biryani,-1,188.0,Delivery,Direct,CASH,-188.0
+102484-R,2025-03-30 11:33:00,Hummus with Pita,Starters,-1,145.0,Delivery,Swiggy,CASH,-145.0
+107670-R,2025-06-07 17:57:00,Falafel Plate,Starters,-1,175.0,Dine-In,N/A,UPI,-175.0
+117801-R,2025-11-07 12:30:00,Chicken Shawarma Plate,Platters,-2,214.0,Dine-In,N/A,UPI,-428.0
+115839-R,2025-10-08 12:33:00,Manakish Zaatar,Bakery,-2,101.0,Delivery,Swiggy,CASH,-202.0
+132983-R,2026-05-30 17:01:00,Chicken Kebab Platter,Platters,-1,241.0,Delivery,Swiggy,CASH,-241.0
+102354-R,2025-03-29 14:28:00,Chicken Shawarma Roll,Rolls,-1,126.0,Delivery,Swiggy,CARD,-126.0
+126678-R,2026-03-12 14:47:00,Falafel Plate,Starters,-1,172.0,Takeaway,Direct,CARD,-172.0
+111183-R,2025-07-29 21:26:00,Falafel Plate,Starters,-2,171.0,Dine-In,N/A,CASH,-342.0
+104342-R,2025-04-20 14:50:00,Baklava (2 pcs),Dessert,-2,112.0,Delivery,Direct,UPI,-224.0
+121962-R,2026-01-05 18:16:00,Karak Chai,Beverages,-1,38.0,Delivery,Zomato,CARD,-38.0
+127588-R,2026-03-22 14:54:00,Mutton Shawarma Roll,Rolls,-2,170.0,Takeaway,Direct,UPI,-340.0
+116842-R,2025-10-23 20:14:00,Chicken Kabsa,Rice,-2,268.0,Delivery,Zomato,CASH,-536.0
+102355-R,2025-03-29 15:15:00,Falafel Plate,Starters,-1,171.0,Delivery,Direct,UPI,-171.0
+137852-R,2026-08-10 15:23:00,Veg Biryani,Biryani,-2,172.0,Delivery,Zomato,CASH,-344.0
+119403-R,2025-12-01 19:33:00,Chicken Shawarma Plate,Platters,-2,205.0,Takeaway,N/A,CASH,-410.0
+123276-R,2026-01-23 21:57:00,Falafel Plate,Starters,-2,170.0,Delivery,Direct,UPI,-340.0
+118824-R,2025-11-22 18:04:00,Mutton Biryani,Biryani,-2,283.0,Delivery,Zomato,CASH,-566.0
+104393-R,2025-04-21 13:06:00,Chicken Shawarma Roll,Rolls,-1,138.0,Dine-In,N/A,CASH,-138.0
+115124-R,2025-09-27 19:07:00,Mutton Shawarma Roll,Rolls,-1,153.0,Delivery,Swiggy,CASH,-153.0
+136580-R,2026-07-24 17:02:00,Mutton Shawarma Roll,Rolls,-1,155.0,Delivery,Swiggy,CASH,-155.0
+139017-R,2026-08-28 20:07:00,Falafel Roll,Rolls,-1,108.0,Takeaway,Direct,UPI,-108.0
+115053-R,2025-09-26 13:25:00,Mutton Shawarma Roll,Rolls,-2,154.0,Dine-In,N/A,CASH,-308.0
+111043-R,2025-07-26 16:39:00,Chicken Kebab Platter,Platters,-2,251.0,Delivery,Swiggy,CARD,-502.0
+135135-R,2026-07-02 19:06:00,Mutton Biryani,Biryani,-1,278.0,Dine-In,N/A,CASH,-278.0
+136017-R,2026-07-15 12:34:00,Karak Chai,Beverages,-1,32.0,Dine-In,N/A,UPI,-32.0
+109867-R,2025-07-10 12:21:00,Arabic Mandi Chicken,Rice,-2,279.0,Dine-In,N/A,CASH,-558.0
+133857-R,2026-06-13 16:45:00,Chicken Kabsa,Rice,-1,269.0,Dine-In,N/A,UPI,-269.0
+113329-R,2025-08-31 12:40:00,Mixed Grill Platter,Platters,-2,349.0,Dine-In,N/A,CASH,-698.0
+122887-R,2026-01-17 21:24:00,Chicken Shawarma Roll,Rolls,-2,140.0,Dine-In,N/A,UPI,-280.0
+128477-R,2026-04-02 22:55:00,Falooda,Dessert,-2,92.0,Dine-In,N/A,CARD,-184.0
+102048-R,2025-03-25 14:08:00,Mutton Biryani,Biryani,-2,277.0,Delivery,Zomato,CASH,-554.0
+136832-R,2026-07-26 11:26:00,Mutton Shawarma Roll,Rolls,-2,164.0,Dine-In,N/A,UPI,-328.0
+130214-R,2026-04-21 13:12:00,Baklava (2 pcs),Dessert,-1,92.0,Takeaway,Direct,CASH,-92.0
+108589-R,2025-06-21 15:36:00,Manakish Cheese,Bakery,-2,125.0,Takeaway,Direct,CARD,-250.0
+102493-R,2025-03-30 16:25:00,Mutton Shawarma Roll,Rolls,-2,154.0,Takeaway,Direct,CASH,-308.0
+122719-R,2026-01-16 20:03:00,Chicken Shawarma Plate,Platters,-2,215.0,Delivery,Zomato,CASH,-430.0
+102954-R,2025-04-05 21:19:00,Karak Chai,Beverages,-1,52.0,Delivery,Zomato,CARD,-52.0
+136798-R,2026-07-26 13:18:00,Mixed Grill Platter,Platters,-2,354.0,Delivery,Swiggy,UPI,-708.0
+137622-R,2026-08-07 17:22:00,Chicken Kabsa,Rice,-1,252.0,Takeaway,Direct,UPI,-252.0
+123532-R,2026-01-25 23:58:00,Falafel Roll,Rolls,-1,112.0,Delivery,Direct,UPI,-112.0
+112830-R,2025-08-23 12:19:00,Baklava (2 pcs),Dessert,-2,101.0,Delivery,Swiggy,CARD,-202.0
+101293-R,2025-03-16 18:02:00,Manakish Cheese,Bakery,-1,112.0,Delivery,Zomato,CARD,-112.0
+131466-R,2026-05-08 20:48:00,Chicken Biryani,Biryani,-1,227.0,Dine-In,N/A,CASH,-227.0
+114451-R,2025-09-18 20:28:00,Chicken Shawarma Plate,Platters,-1,213.0,Dine-In,N/A,CARD,-213.0
+129839-R,2026-04-18 18:26:00,Veg Biryani,Biryani,-2,174.0,Delivery,Zomato,CASH,-348.0
+137569-R,2026-08-07 19:28:00,Mutton Shawarma Roll,Rolls,-1,152.0,Delivery,Swiggy,CASH,-152.0
+129845-R,2026-04-18 14:26:00,Falafel Plate,Starters,-1,180.0,Delivery,Zomato,UPI,-180.0
+117749-R,2025-11-06 14:48:00,Falafel Roll,Rolls,-1,111.0,Delivery,Zomato,CARD,-111.0
+133325-R,2026-06-05 13:15:00,Chicken Kabsa,Rice,-2,274.0,Delivery,Direct,UNKNOWN,-548.0
+133285-R,2026-06-05 20:19:00,Mixed Grill Platter,Platters,-2,364.0,Delivery,Swiggy,UPI,-728.0
+120187-R,2025-12-12 21:57:00,Chicken Biryani,Biryani,-1,220.0,Delivery,Swiggy,CASH,-220.0
+112470-R,2025-08-17 12:45:00,Manakish Cheese,Bakery,-1,115.0,Delivery,Swiggy,CASH,-115.0
+111054-R,2025-07-27 13:44:00,Falafel Plate,Starters,-2,172.0,Dine-In,N/A,CARD,-344.0
+128588-R,2026-04-03 13:34:00,Hummus with Pita,Starters,-1,155.0,Takeaway,Direct,CARD,-155.0
+128055-R,2026-03-28 15:59:00,Chicken Biryani,Biryani,-2,226.0,Takeaway,Direct,CASH,-452.0
+128192-R,2026-03-29 16:44:00,Hummus with Pita,Starters,-2,147.0,Dine-In,N/A,UPI,-294.0
+115845-R,2025-10-08 20:33:00,Manakish Zaatar,Bakery,-2,119.0,Dine-In,N/A,CASH,-238.0
+114404-R,2025-09-17 12:41:00,Lemon Mint Cooler,Beverages,-1,54.0,Takeaway,Direct,CARD,-54.0
+114803-R,2025-09-22 14:47:00,Manakish Zaatar,Bakery,-1,119.0,Delivery,Swiggy,UPI,-119.0
+130990-R,2026-04-30 19:10:00,Chicken Shawarma Roll,Rolls,-1,138.0,Dine-In,N/A,CASH,-138.0
+123063-R,2026-01-20 13:12:00,Mutton Shawarma Roll,Rolls,-2,160.0,Dine-In,N/A,CASH,-320.0
+121529-R,2025-12-30 21:15:00,Chicken Shawarma Plate,Platters,-1,208.0,Takeaway,Direct,CASH,-208.0
+116021-R,2025-10-11 20:19:00,Mutton Biryani,Biryani,-1,271.0,Delivery,Swiggy,UPI,-271.0
+111019-R,2025-07-26 13:45:00,Mutton Shawarma Roll,Rolls,-1,164.0,Dine-In,N/A,CARD,-164.0
+134047-R,2026-06-15 21:29:00,Baklava (2 pcs),Dessert,-2,114.0,Delivery,Swiggy,CASH,-228.0
+107621-R,2025-06-06 19:13:00,Manakish Cheese,Bakery,-2,117.0,Delivery,Zomato,UPI,-234.0
+115432-R,2025-10-02 20:01:00,Arabic Mandi Chicken,Rice,-2,260.0,Dine-In,N/A,CARD,-520.0
+109730-R,2025-07-08 12:58:00,Falooda,Dessert,-1,95.0,Dine-In,N/A,CASH,-95.0
+105192-R,2025-05-01 19:07:00,Arabic Mandi Chicken,Rice,-2,262.0,Takeaway,Direct,UPI,-524.0
+112529-R,2025-08-18 17:57:00,Falafel Plate,Starters,-1,168.0,Delivery,Zomato,CASH,-168.0
+123449-R,2026-01-25 20:27:00,Falooda,Dessert,-2,91.0,Delivery,Swiggy,CASH,-182.0
+110153-R,2025-07-13 20:47:00,Manakish Cheese,Bakery,-2,111.0,Dine-In,N/A,CASH,-222.0
+109483-R,2025-07-04 17:57:00,Manakish Cheese,Bakery,-2,112.0,Dine-In,N/A,CASH,-224.0
+103863-R,2025-04-15 20:28:00,Falafel Plate,Starters,-1,160.0,Dine-In,N/A,UPI,-160.0
+120810-R,2025-12-20 18:46:00,Falooda,Dessert,-2,88.0,Delivery,Swiggy,UPI,-176.0
+134485-R,2026-06-21 21:48:00,Lemon Mint Cooler,Beverages,-1,74.0,Delivery,Zomato,UPI,-74.0
+103480-R,2025-04-11 19:36:00,Chicken Shawarma Plate,Platters,-1,217.0,Dine-In,N/A,UNKNOWN,-217.0
+103287-R,2025-04-09 19:21:00,Falafel Plate,Starters,-2,173.0,Delivery,Swiggy,CARD,-346.0
+122142-R,2026-01-08 18:19:00,Mutton Shawarma Roll,Rolls,-1,155.0,Dine-In,N/A,UPI,-155.0
+110793-R,2025-07-23 12:27:00,Chicken Shawarma Plate,Platters,-1,208.0,Dine-In,N/A,CARD,-208.0
+116628-R,2025-10-19 22:35:00,Karak Chai,Beverages,-2,30.0,Dine-In,N/A,UPI,-60.0
+137810-R,2026-08-09 20:20:00,Falafel Roll,Rolls,-1,122.0,Dine-In,N/A,CARD,-122.0
+116251-R,2025-10-14 19:07:00,Chicken Kebab Platter,Platters,-2,233.0,Delivery,Zomato,CASH,-466.0
+139152-R,2026-08-30 14:46:00,Baklava (2 pcs),Dessert,-2,91.0,Dine-In,N/A,CASH,-182.0
+133548-R,2026-06-07 14:26:00,Mutton Shawarma Roll,Rolls,-1,153.0,Takeaway,Direct,CASH,-153.0
+112027-R,2025-08-10 13:06:00,Karak Chai,Beverages,-1,44.0,Delivery,Zomato,CASH,-44.0
+119043-R,2025-11-26 19:04:00,Mutton Shawarma Roll,Rolls,-1,154.0,Delivery,Swiggy,UPI,-154.0
+107500-R,2025-06-04 19:54:00,Arabic Mandi Chicken,Rice,-2,267.0,Delivery,Swiggy,UNKNOWN,-534.0
+127966-R,2026-03-27 13:37:00,Arabic Mandi Chicken,Rice,-1,276.0,Delivery,Swiggy,CASH,-276.0
+139162-R,2026-08-30 12:15:00,Falafel Plate,Starters,-1,182.0,Dine-In,N/A,CASH,-182.0
+123850-R,2026-01-30 13:52:00,Chicken Kebab Platter,Platters,-1,252.0,Delivery,Swiggy,CASH,-252.0
+119029-R,2025-11-26 19:15:00,Arabic Mandi Chicken,Rice,-2,261.0,Dine-In,N/A,CASH,-522.0
+110172-R,2025-07-14 19:35:00,Falafel Roll,Rolls,-2,101.0,Delivery,Swiggy,UNKNOWN,-202.0
+135817-R,2026-07-11 20:37:00,Falafel Plate,Starters,-2,182.0,Takeaway,Direct,CASH,-364.0
+112973-R,2025-08-26 13:59:00,Manakish Zaatar,Bakery,-2,117.0,Delivery,Zomato,CASH,-234.0
+113370-R,2025-08-31 17:00:00,Falooda,Dessert,-2,84.0,Dine-In,N/A,UPI,-168.0
+123175-R,2026-01-21 21:25:00,Lemon Mint Cooler,Beverages,-1,52.0,Takeaway,Direct,CASH,-52.0
+121210-R,2025-12-26 12:24:00,Chicken Shawarma Roll,Rolls,-2,144.0,Delivery,Direct,CASH,-288.0
+124008-R,2026-02-01 19:51:00,Chicken Shawarma Roll,Rolls,-1,123.0,Dine-In,N/A,CASH,-123.0
+120938-R,2025-12-22 13:58:00,Mutton Shawarma Roll,Rolls,-1,171.0,Dine-In,N/A,CASH,-171.0
+108536-R,2025-06-21 17:05:00,Manakish Cheese,Bakery,-1,131.0,Takeaway,Direct,CARD,-131.0
+116072-R,2025-10-11 19:39:00,Hummus with Pita,Starters,-1,148.0,Takeaway,Direct,CARD,-148.0
+111898-R,2025-08-09 14:34:00,Falooda,Dessert,-2,90.0,Delivery,Zomato,UPI,-180.0
+130326-R,2026-04-22 14:26:00,Chicken Biryani,Biryani,-1,224.0,Delivery,Swiggy,CASH,-224.0
+134675-R,2026-06-25 21:48:00,Mixed Grill Platter,Platters,-1,357.0,Dine-In,N/A,UPI,-357.0
+129778-R,2026-04-17 22:59:00,Manakish Zaatar,Bakery,-1,111.0,Delivery,Zomato,CASH,-111.0
+126420-R,2026-03-08 15:17:00,Falafel Roll,Rolls,-2,101.0,Delivery,Swiggy,CARD,-202.0
+103594-R,2025-04-12 20:05:00,Chicken Biryani,Biryani,-1,223.0,Takeaway,Direct,CARD,-223.0
+124635-R,2026-02-11 19:25:00,Karak Chai,Beverages,-2,32.0,Takeaway,Direct,CASH,-64.0
+122983-R,2026-01-18 19:39:00,Chicken Shawarma Roll,Rolls,-2,142.0,Delivery,Swiggy,CASH,-284.0
+133882-R,2026-06-13 14:53:00,Mutton Shawarma Roll,Rolls,-1,150.0,Delivery,Zomato,CARD,-150.0
+122081-R,2026-01-07 22:14:00,Falafel Plate,Starters,-2,178.0,Delivery,Swiggy,CASH,-356.0
