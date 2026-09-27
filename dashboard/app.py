@@ -2,8 +2,6 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.io as pio
-
-# Force readable dark text on all Plotly charts (page CSS doesn't reach chart SVG text)
 pio.templates["ak_light"] = pio.templates["plotly_white"]
 pio.templates["ak_light"].layout.font.color = "#211F1A"
 pio.templates["ak_light"].layout.title.font.color = "#211F1A"
@@ -14,9 +12,6 @@ pio.templates.default = "ak_light"
 
 st.set_page_config(page_title="Arabian Kitchen — Analytics", layout="wide", page_icon="🍽️")
 
-# ---------------------------------------------------------------
-# Theming (matches portfolio palette)
-# ---------------------------------------------------------------
 ACCENT = "#B24A1E"
 ACCENT2 = "#2C5F58"
 PAPER = "#EFECE3"
@@ -122,9 +117,7 @@ section[data-testid="stSidebar"] .block-container {{ padding-top: 2rem; }}
 </style>
 """)
 
-# ---------------------------------------------------------------
-# Load data
-# ---------------------------------------------------------------
+
 @st.cache_data
 def load_data():
     df = pd.read_csv("../data/clean/arabian_kitchen_orders_clean.csv")
@@ -137,9 +130,7 @@ df = load_data()
 st.title("Arabian Kitchen — Sales & Operations Dashboard")
 st.caption("Chennai · Arabian/Middle Eastern restaurant · Order-level analytics")
 
-# ---------------------------------------------------------------
-# Sidebar filters
-# ---------------------------------------------------------------
+
 st.sidebar.header("Filters")
 
 start_date, end_date = st.sidebar.columns(2)
@@ -173,7 +164,7 @@ payment_modes = st.sidebar.multiselect(
     default=sorted(df["payment_mode"].unique()),
 )
 
-# apply filters
+
 mask = (
     (df["date"] >= pd.to_datetime(date_start))
     & (df["date"] <= pd.to_datetime(date_end))
@@ -182,9 +173,7 @@ mask = (
 )
 fdf = df[mask]
 
-# ---------------------------------------------------------------
-# KPI row
-# ---------------------------------------------------------------
+
 col1, col2, col3, col4 = st.columns(4)
 col1.metric("Total revenue", f"₹{fdf['revenue'].sum():,.0f}")
 col2.metric("Orders", f"{fdf['order_id'].nunique():,}")
@@ -193,9 +182,7 @@ col4.metric("Line items sold", f"{fdf['quantity'].sum():,.0f}")
 
 st.divider()
 
-# ---------------------------------------------------------------
-# Row 1: revenue by item, order type split
-# ---------------------------------------------------------------
+
 c1, c2 = st.columns([2, 1])
 
 with c1:
@@ -216,9 +203,7 @@ with c2:
 
 st.divider()
 
-# ---------------------------------------------------------------
-# Row 2: hourly + day of week patterns
-# ---------------------------------------------------------------
+
 c3, c4 = st.columns(2)
 
 with c3:
@@ -240,9 +225,7 @@ with c4:
 
 st.divider()
 
-# ---------------------------------------------------------------
-# Row 3: monthly trend
-# ---------------------------------------------------------------
+
 st.subheader("Monthly revenue trend")
 monthly = fdf.groupby("month")["revenue"].sum().reset_index()
 fig5 = px.line(monthly, x="month", y="revenue", markers=True, labels={"revenue": "Revenue (₹)", "month": ""})
@@ -252,9 +235,6 @@ st.plotly_chart(fig5, width='stretch', theme=None)
 
 st.divider()
 
-# ---------------------------------------------------------------
-# Row 4: payment mode + delivery platform
-# ---------------------------------------------------------------
 c5, c6 = st.columns(2)
 
 with c5:
